@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Xocdia88 - Trang chủ chính thức cổng game Xocdia88.com 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Xocdia88 <https://xocdia888.tools/>`_ là cổng game bài trực tuyến hàng đầu tại Việt Nam, mang đến trải nghiệm giải trí đỉnh cao với các trò chơi như xóc đĩa, tài xỉu, bắn cá. Được phát triển bởi Suncity World, Xocdia88 đảm bảo tính minh bạch và công bằng, thu hút hàng ngàn người chơi mỗi ngày. Với giao diện thân thiện, dễ sử dụng và hệ thống bảo mật cao, Xocdia88 hỗ trợ trên cả hai nền tảng iOS và Android, giúp bạn chơi mọi lúc, mọi nơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://xocdia888.tools/
 
-   This project is under active development.
+SĐT: 0358446237
 
-Contents
---------
+Địa chỉ: 56 Tân Sơn Hoà, Phường 3, Tân Bình, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Email: xocdia888.tools@gmail.com
 
-   usage
-   api
+#xocdia88 #xocdia88com #xocdia888tools #gamexocdia88
